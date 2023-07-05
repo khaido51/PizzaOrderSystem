@@ -9,11 +9,12 @@ This is my self interest project which developed using Java, WindowBuilderApplic
   + Viewing order details of previous orders
 
 **** Project Technical Analysis****
-  + Applying Object Oriented Programming
-  + Using Abstraction and Polymorphism effectively
-  + Appyling Builder Design Pattern into design classes
-  + Using Window Builder Application to design User Interface
-  + All test case scenarios also covered in order to prevent the system from crashing
+  + Applying Object Oriented Programming.
+  + Using Abstraction and Polymorphism effectively.
+  + Appyling Builder Design Pattern into design classes.
+  + Using Window Builder Application to design User Interface.
+  + Using CSV file to contain Price List of all products which helps easier for future maintenance.
+  + All test case scenarios also covered in order to prevent the system from crashing.
 
 **Class Diagram**
 
